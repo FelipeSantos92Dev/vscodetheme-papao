@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+  0.0.1 - Criação do tema Paysandu
+
+  0.0.2 - Correção de cores e atualização do README

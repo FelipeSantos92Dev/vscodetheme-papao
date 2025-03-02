@@ -1,16 +1,25 @@
-# paysandu-themes README
+# 🔷 Paysandu Themes 🔷
 
-## Working with Markdown
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-white)](https://vscode.dev/editor/theme/FelipeSantos92Dev.paysandu-themes/Paysandu%20Celeste)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## O MAIOR DA AMAZÔNIA NO GITHUB!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+E aí, Fiel Bicolor! Este é o repositório oficial do projeto **Paysandu Themes**! Aqui você vai encontrar a garra e a tradição do Papão transportadas para o mundo do código!
 
-## For more information
+Este pacote de temas para Visual Studio Code traz a paixão pelo Paysandu para sua experiência de desenvolvimento. Escolha entre diferentes estilos inspirados no Bicolaço!
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Atualmente, oferecemos os seguintes temas:
 
-**Enjoy!**
+- **Paysandu Celeste:** Um tema escuro e elegante, inspirado na cor predominante do manto alviceleste! Tons de azul celeste e branco para uma experiência de codificação focada e imersiva.
+
+Assim como nosso Paysandu é GIGANTE dentro de campo, nosso código também será MONSTRUOSO! Não aceitamos menos que a excelência, porque somos Paysandu, somos Bicolor, somos o TERROR DA AMAZÔNIA!
+
+**E não para por aí! Estamos trabalhando em novos temas para você vibrar com o Papão no seu dia a dia. Fique ligado nas próximas atualizações!**
+
+**Nota:** Estes temas priorizam a legibilidade e o contraste, mas mantêm a discrição, com cores mais vibrantes reservadas para informações importantes como erros e alertas. Sinta-se à vontade para personalizar ainda mais os temas clonando este repositório e fazendo as alterações que desejar!
+
+**PAYSANDU! 🔷🤍**
+
+---
+
+_Feito com a mesma paixão que vibra nas arquibancadas da CURUZU!_
