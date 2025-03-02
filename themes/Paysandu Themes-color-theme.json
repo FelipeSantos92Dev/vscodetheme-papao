@@ -351,7 +351,6 @@
     "inlineChatInput.background": "#ECEFF1",
     "inlineChatDiff.inserted": "#A0A0A030",
     "inlineChatDiff.removed": "#E5737330",
-    "activityBar.background": "#29ABE2",
     "activityBar.foreground": "#FFFFFF"
   },
   "tokenColors": [

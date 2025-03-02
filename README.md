@@ -22,7 +22,7 @@ Assim como nosso Paysandu é GIGANTE dentro de campo, nosso código também ser�
 
 **Nota:** Estes temas priorizam a legibilidade e o contraste, mas mantêm a discrição, com cores mais vibrantes reservadas para informações importantes como erros e alertas. Sinta-se à vontade para personalizar ainda mais os temas clonando este repositório e fazendo as alterações que desejar!
 
-**PAYSANDU! 🩵🤍**
+**PAYSANDU SPORT CLUB! 🩵🤍**
 
 ---
 
