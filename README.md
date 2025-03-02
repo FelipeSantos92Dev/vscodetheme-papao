@@ -1,8 +1,10 @@
-# 🔷 Paysandu Themes 🔷
+# 🩵 Paysandu Themes 🩵
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-white)](https://vscode.dev/editor/theme/FelipeSantos92Dev.paysandu-themes/Paysandu%20Celeste)
 
 ## O MAIOR DA AMAZÔNIA NO GITHUB!
+
+_Uma listra branca, outra listra azul... Essas são as cores do Papão da Curuzu!_ 🎶
 
 E aí, Fiel Bicolor! Este é o repositório oficial do projeto **Paysandu Themes**! Aqui você vai encontrar a garra e a tradição do Papão transportadas para o mundo do código!
 
@@ -18,7 +20,7 @@ Assim como nosso Paysandu é GIGANTE dentro de campo, nosso código também ser�
 
 **Nota:** Estes temas priorizam a legibilidade e o contraste, mas mantêm a discrição, com cores mais vibrantes reservadas para informações importantes como erros e alertas. Sinta-se à vontade para personalizar ainda mais os temas clonando este repositório e fazendo as alterações que desejar!
 
-**PAYSANDU! 🔷🤍**
+**PAYSANDU! 🩵🤍**
 
 ---
 
