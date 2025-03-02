@@ -1,0 +1,44 @@
+{
+  "name": "paysandu-themes",
+  "displayName": "Paysandu Themes",
+  "description": "Temas inspirados nas cores dos uniformes do Gigante do Norte",
+  "version": "0.0.1",
+  "publisher": "FelipeSantos92Dev",
+  "author": {
+    "name": "Felipe Santos"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "paysandu",
+    "celeste",
+    "branco"
+  ],
+  "icon": "images/papao.png",
+  "galleryBanner": {
+    "color": "#29ABE2",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paysandu Celeste",
+        "uiTheme": "vs",
+        "path": "./themes/Paysandu Themes-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeuNomeDeUsuario/vscodetheme-paysandu"
+  },
+  "homepage": "https://github.com/SeuNomeDeUsuario/vscodetheme-paysandu/blob/main/README.md",
+  "license": "MIT"
+}
