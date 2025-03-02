@@ -32,6 +32,11 @@
         "label": "Paysandu Celeste",
         "uiTheme": "vs",
         "path": "./themes/Paysandu Themes-color-theme.json"
+      },
+      {
+        "label": "Paysandu Away",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paysandu Themes-Away-color-theme.json"
       }
     ]
   },

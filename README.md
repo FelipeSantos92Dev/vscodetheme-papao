@@ -1,6 +1,6 @@
 # 🩵 Paysandu Themes 🩵
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-white)](https://vscode.dev/editor/theme/FelipeSantos92Dev.paysandu-themes/Paysandu%20Celeste)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-white)](https://vscode.dev/editor/theme/SeuNomeDeUsuario.paysandu-themes/Paysandu%20Celeste)
 
 ## O MAIOR DA AMAZÔNIA NO GITHUB!
 
@@ -12,7 +12,9 @@ Este pacote de temas para Visual Studio Code traz a paixão pelo Paysandu para s
 
 Atualmente, oferecemos os seguintes temas:
 
-- **Paysandu Celeste:** Um tema escuro e elegante, inspirado na cor predominante do manto alviceleste! Tons de azul celeste e branco para uma experiência de codificação focada e imersiva.
+- **Paysandu Celeste:** Um tema claro e elegante, inspirado na cor predominante do manto alviceleste! Tons de azul celeste e branco para uma experiência de codificação focada e imersiva.
+
+- **Paysandu Away (Preto Bicolor):** Inspirado no segundo uniforme do Paysandu, este tema escuro combina o preto predominante com detalhes em azul celeste, oferecendo um visual moderno e com contrastes suaves para o conforto dos seus olhos durante longas sessões de código.
 
 Assim como nosso Paysandu é GIGANTE dentro de campo, nosso código também será MONSTRUOSO! Não aceitamos menos que a excelência, porque somos Paysandu, somos Bicolor, somos o TERROR DA AMAZÔNIA!
 
